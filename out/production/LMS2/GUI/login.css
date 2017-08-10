@@ -1,0 +1,12 @@
+#thing{
+-fx-background-color: rgba(0, 0, 0, 0.71);
+-fx-text-inner-color:White;
+}
+#root{
+-fx-background-color: Black;
+-fx-background-image: url("gears_are_turning_by_rstovall.gif");
+-fx-background-size: 40%;
+-fx-background-position: left;
+-fx-background-repeat: no-repeat;
+-fx-color: white;
+}
